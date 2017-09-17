@@ -6,7 +6,8 @@ It also contain example of basis clause like firstprivate, lastprivate
 # Requirement 
 
 ## gcc compiler 
-Most of linux distribution has gcc preinstalled.
+Most of linux distribution has gcc preinstalled.<br/>
+You should also need <b>omp.h</b>  header file. 
 
 # How to use 
 for linux
