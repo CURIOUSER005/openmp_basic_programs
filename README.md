@@ -5,7 +5,7 @@ It also contain example of basis clause like firstprivate, lastprivate
 
 # Requirement 
 
-GCC compiler 
+## gcc compiler 
 Most of linux distribution has gcc preinstalled.
 
 # How to use 
