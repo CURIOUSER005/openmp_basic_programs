@@ -1,7 +1,7 @@
 # openmp_basic_programs
 
-This repo include basis parallel program using [openMP](http://www.openmp.org/) API.
-It also contain example of basis clause like firstprivate, lastprivate
+This repo include basic parallel program using [openMP](http://www.openmp.org/) API.</br>
+It also contain example of basic clause like firstprivate, lastprivate.
 
 # Requirement 
 
