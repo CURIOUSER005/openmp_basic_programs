@@ -1,4 +1,4 @@
-    //To see the First private
+    //To see the First private and private
     #include<stdio.h>
     #include<stdlib.h>
     #include<omp.h>
