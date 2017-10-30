@@ -5,7 +5,7 @@
  int main()
  {
      int i,a=10,b=5;
-     #pragma omp parallel for lastprivate(a) num_threads(1)
+     #pragma omp parallel for lastprivate(a) num_threads(1) //this step is for parallelising
      for(i=1;i<5;i++)
      {
          a = a+b;                    //It takes initial value of a as 0 and not 10
